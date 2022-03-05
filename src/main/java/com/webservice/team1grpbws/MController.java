@@ -9,6 +9,10 @@ public class MController {
 	@RequestMapping("show")
 	
 	public String show() {
+		/*
+		 * the tomcat-embed-jasper dependency to allow our application 
+		 * to compile and render JSP pages
+		 */
 		return "data.jsp";
 	}
 
