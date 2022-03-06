@@ -14,6 +14,7 @@ public class MController {
 		 * to compile and render JSP pages
 		 */
 		return "data.jsp";
+
 	}
 
 }
