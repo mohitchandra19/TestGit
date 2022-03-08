@@ -26,15 +26,15 @@ h1 {text-align: center;}
     <th>Emailid</th>
   </tr>
   <tr>
-    <td>Mohit</td>
-    <td>Nanduri</td>
-    <td>mohitnanduri7@gmail.com</td>
+    <td>varshini</td>
+    <td>reddy</td>
+    <td>varshini@gmail.com</td>
     
   </tr>
   <tr>
-    <td>Bhargav</td>
-    <td>Gandikota</td>
-    <td>bhargavg11298@gmail.com</td>
+    <td>ram</td>
+    <td>ragu</td>
+    <td>ramragu@gmail.com</td>
   </tr>
   <tr>
     <td>Mohan</td>
@@ -45,11 +45,6 @@ h1 {text-align: center;}
     <td>Sunil</td>
     <td>Kumar</td>
     <td>sunilkumar1998@gmail.com</td>
-  </tr>
-  <tr>
-    <td>Harish</td>
-    <td>Nanduri</td>
-    <td>harishanduri223@gmail.com</td>
   </tr>
 </table>
 
